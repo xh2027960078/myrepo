@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-英纹字母AbcdefgHijk
-=======
 英文字母AbcdefgHijk
->>>>>>> fenz1
+
